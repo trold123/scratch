@@ -4,15 +4,10 @@ Informatik skriftlig aflevering
 Reklamespil - FN’s Verdensmål
 
 FN’s verdensmål 9:
- 
+ <img width="459" height="256" alt="image" src="https://github.com/user-attachments/assets/b3f36455-6d38-446e-b22f-8f34d04a822c" />
 
 Vi har fået til opgave at designe et reklamespil, der reklamerer for det af FN’s verdensmål som har samme nummer som vores gruppe. Vi har derfor fået FN’s verdensmål nummer 9, som omhandler industri, innovation og infrastruktur.
 Designet af reklamespillet er med udgangspunkt i skabelonen med Packman.
-
-
-
-
-
 
 
 -	Budskab eller produkt og slogan
@@ -31,7 +26,7 @@ Derudover kan målgruppen til vores produkt også være spillere der elsker acti
 -	Beskrivelse af spil genre og spillertype.
 Vores spilgenre er en aktionspil med udgangspunkt i Packman. Ifølge Bartlers spilletyper henvender spillets sig primært til stræbere og udforsker. Stræberen vil blive motiveret af at samle point, klare banerne og svare rigtigt på spørgsmålene for at komme videre, hvilket placerer dem under action og strategi i skemaet. Udforsker vil blive motiveret af at prøve alle baner, opdage nye spørgsmål og få ny viden omkring FN’s 9. verdensmål. Derfor placeres de under adventure og proces i skemaet.
  
-
+<img width="482" height="144" alt="image" src="https://github.com/user-attachments/assets/66075103-abf3-43fd-8f6e-0726272fb46c" />
 
 -	AIDA modellen for spillet.
 Attention (Opmærksomhed): Vi har en farverig Packman inspireret bane, samt et action fyldt gameplay, som fanger spillerens opmærksomhed. Derudover skaber det også opmærksomhed, at man skal løse spændende og udfordrende spørgsmål om FN’s verdensmål nr. 9 for at komme videre i spillet. 
@@ -49,32 +44,10 @@ Læring: Det at spørgsmålene er lavet til at give viden om industri, innovatio
 
 Identifikation: Identifikation bliver tydeligt i vores produkt, fordi spilleren selv styre figuren, og har ejerskab over den og selve handlingerne i spillet. Vores action fyldte gameplay vil skabe indlevelse og engagement, samt progressionen gennem levels/spørgsmålene giver følelsen af personlig udvikling/mestring.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 -	Screen shots af spillets virkemåde og to stykker scratch kode (sætningsstrukturer) med forklaring på hver linje i koden og hvert billede af spillets gang. Brug et rutediagram til formidling af et stykke scratch kode.
 Spillets virkemåde:
  
-1.	Spilleren styrer katten, som er den, der skal igennem labyrinten og føres ind til mål. 	 
-2.	For at katten, kan komme videre, skal den forbi barriererne, det gør den ved at svare på et spørgsmål. 
- 
-
-3.	Bliver der svaret korrekt på spørgsmålet, kan katten fortsætte videre i labyranten til den møder den næste barrierer.	 
-4.	Når der er svaret korrekt på spørgsmål, vil der komme et mere uddybende svar, så spilleren får ekstra viden. 
-
+<img width="974" height="946" alt="image" src="https://github.com/user-attachments/assets/85096589-474d-411f-bb44-65a94a20ae30" />
 
 
 Scratch koder:
@@ -83,17 +56,7 @@ Kode 1, er en af de 4 koder som styrer katten (avataren), denne er gældende for
 Koden styrer, hvad der sker, når spilleren trykker på pil ned på tastaturet:
  
 Tegnet rutediagram:
- 	1.	Når pil ned trykkes, vender figuren sig nedad (180 grader).
-
-2.	 Figuren bevæger sig 10 skridt fremad (nedad på skærmen).
-
-
-3.	Den skifter ”costume”, altså det ser ud som om den animeres (f.eks. løber).
-
-4.	Figuren sender en besked med navnet "tjek". Denne besked bruges til at aktivere andre dele af spillet, f.eks. lastbilen, som fungerer en barriere. 
-
-
-5.	 Hvis figuren rører en sort farve (for eksempel en væg), går den 10 skridt tilbage, så den ikke kan gå igennem væggen.
+ 	<img width="972" height="1044" alt="image" src="https://github.com/user-attachments/assets/e01447ec-b59a-4887-a4a1-efe695e12080" />
 
 
 Kode 2:
@@ -103,14 +66,7 @@ Denne her kode aktiveres, når beskeden "tjek" modtages – altså når figuren 
 
 Tegnet rutediagram:
  
-1.	Når beskeden "tjek" modtages, tjekker koden om figuren rører fx en lastbil (Truck).
-
-2.	 Hvis figuren rører lastbilen, bliver spilleren stillet et spørgsmål:
--	"Hvad går FN’s Verdensmål 9 ud på?"
-
-3.	Brugeren skal skrive svaret. I svar boksen, som kommer frem på skærmen. 
-
-4.	 Hvis svaret er "industri, innovation og infrastruktur", vises en besked i 5 sekunder, som forklarer nærmere, hvad verdensmålet går ud på.
+<img width="956" height="1040" alt="image" src="https://github.com/user-attachments/assets/31a8b4a7-8ea6-469f-ac69-63cdada42527" />
 
 Disposition: 
 1. Introduktion
@@ -154,5 +110,5 @@ Udforsker, motiveres af at opdage nye baner og viden.
 •	Kode 1 (styring af katten)
 •	Kode 2 (spørgsmålssystem)
 
-<img width="482" height="661" alt="image" src="https://github.com/user-attachments/assets/e5794e36-81ac-4074-ac52-9177eaa97381" />
+
 
